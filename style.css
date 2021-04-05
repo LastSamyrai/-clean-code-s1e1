@@ -13,7 +13,7 @@ body {
 }
 
 .header img {
-  width: 100%
+  width: 100%;
 }
 
 .header-info-link {
@@ -168,7 +168,7 @@ button {
 
 /* Edit Task */
 .task-input:not(.task-input_new) {
-  display: none
+  display: none;
 }
 
 .edit-mode .task-input {
