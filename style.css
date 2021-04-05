@@ -13,14 +13,14 @@ body {
 }
 
 .header img {
-  width: 100%;
+  width: 100%
 }
 
 .header-info-link {
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
   .header {
     text-align: center;
@@ -167,11 +167,11 @@ button {
 }
 
 /* Edit Task */
-.task-input:not(.task-input_new){
-  display: none;
+.task-input:not(.task-input_new) {
+  display: none
 }
 
-.edit-mode .task-input{
+.edit-mode .task-input {
   display: inline-block;
   width: 224px;
 }
